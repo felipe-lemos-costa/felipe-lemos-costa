@@ -1,14 +1,7 @@
 # Felipe Costa
 
-🎯 **Data Scientist** with a solid engineering background and 4+ years of experience in tech companies. Currently available for **freelance projects** for clients in the UK, USA, and Europe.
-
-I’m passionate about turning data into **actionable insights**, building **predictive models**, and solving real-world problems through **Machine Learning** and **Statistical Analysis**.
-
----
-
 ## 🧠 Summary
-
-Engineer with over 4 years of experience working in technology companies, finishing an MBA in Data Science. Strong knowledge in Machine Learning (ML), Python, R, and SQL. Experienced in Engineering, Data Analysis, Algorithms, and Data Visualization. Proficient in working with Datasets, applying Mathematics and Statistics, and delivering Data Solutions, Data Insights and Data Business. Skilled in Statistical methods and data business strategies, with excellent English Communication Skills and strong analytical skills. **Available for freelance projects** for clients in the UK, USA, and Europe.
+Engineer and Data Scientist with over 4 years of experience working in technology companies, finishing an MBA in Data Science. Strong knowledge in Machine Learning (ML), Python, R, and SQL. Experienced in Enginiring, Data Analysis, Algorithms, and Data Visualization. Proficient in working with Datasets, applying Mathematics and Statistics, and delivering Data Solutions, Data Insights and Data Business. Skilled in Statistical methods and data business strategies, with excellent English Communication Skills and strong analytical skills. Available for freelance projects for clients in the UK, USA, and Europe.
 
 ---
 
@@ -21,7 +14,7 @@ Engineer with over 4 years of experience working in technology companies, finish
 `Power BI` | `Excel (Advanced)` | `Tableau` | `Statsmodels` | `SciPy` | `SAP` | `ERP Systems`
 
 **Cloud & DevOps**  
-`AWS` | `Google Cloud Platform` | Git & GitHub
+`AWS` | `Google Cloud Platform` | `Git & GitHub`
 
 **NLP**  
 `NLTK` | `SpaCy`
