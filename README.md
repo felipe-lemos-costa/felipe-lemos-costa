@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Felipe Costa!
+# Felipe Costa
 
 🎯 **Data Scientist** with a solid engineering background and 4+ years of experience in tech companies. Currently available for **freelance projects** for clients in the UK, USA, and Europe.
 
