@@ -31,7 +31,7 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 
 ## 📈 Projects (n)
 
-- 🔍 **Churn Prediction** for a telecom company  
+- [Amazon Sales EDA Analysis](https://github.com/felipe-lemos-costa/Amazon-Sales-EDA-Analysis): ** This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 - 🛍️ **Amazon Sales Dashboard** (EDA + Visualization)  
 - 📦 **Demand Forecasting** using Linear Regression  
 - 🧠 **NLP Resume Classifier**
