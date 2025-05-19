@@ -29,12 +29,13 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 
 ---
 
-## 📈 Projects (n)
+## 📈 Projects
 
-- [Amazon Sales EDA Analysis](https://github.com/felipe-lemos-costa/Amazon-Sales-EDA-Analysis): ** This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
-- 🛍️ **Amazon Sales Dashboard** (EDA + Visualization)  
-- 📦 **Demand Forecasting** using Linear Regression  
-- 🧠 **NLP Resume Classifier**
+- [Amazon Sales EDA Analysis](https://github.com/felipe-lemos-costa/Amazon-Sales-EDA-Analysis): This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
+
+- [Walmart Sales Prediction Model](https://github.com/felipe-lemos-costa/Walmart_Sales_Prediction_Model): This project involves implementing a weekly sales forecasting model for Walmart, focusing on the impact of major U.S. national holidays. The goal is to predict sales fluctuations during these periods by incorporating historical sales data and holiday effects. Machine learning and statistical techniques will be used to enhance forecasting accuracy.
+
+- [Advertising_Budget_Sales](https://github.com/felipe-lemos-costa/Advertising_Budget_Sales): This project analyzes the relationship between investments in different advertising channels (TV, radio, and newspapers) and their impact on company sales. The goal is to understand how each channel contributes to sales performance, using advertising budgets as explanatory variables and sales volume as the target variable.
 
 ---
 
