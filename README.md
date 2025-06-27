@@ -30,7 +30,7 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 ---
 
 ## 📈 Projects
-
+https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png
 - [Amazon Sales EDA Analysis](https://github.com/felipe-lemos-costa/Amazon-Sales-EDA-Analysis): This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 
 - [Walmart Sales Prediction Model](https://github.com/felipe-lemos-costa/Walmart_Sales_Prediction_Model): This project involves implementing a weekly sales forecasting model for Walmart, focusing on the impact of major U.S. national holidays. The goal is to predict sales fluctuations during these periods by incorporating historical sales data and holiday effects. Machine learning and statistical techniques will be used to enhance forecasting accuracy.
