@@ -38,7 +38,7 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 - [Advertising Budget Sales](https://github.com/felipe-lemos-costa/Advertising_Budget_Sales): This project analyzes the relationship between investments in different advertising channels (TV, radio, and newspapers) and their impact on company sales. The goal is to understand how each channel contributes to sales performance, using advertising budgets as explanatory variables and sales volume as the target variable.
 
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt="MySQL Logo" width="150" />
-- [Coca Cola Stock Analysis](https://github.com/felipe-lemos-costa/SQL-Coca-Cola-Stock-Analysis): In this project, I built a relational database in MySQL using historical Coca-Cola (KO) stock data from 2019 to 2024. I performed data import, validation, and exploratory analysis, including daily price variation, monthly averages, and trading volume. I also created analytical views using SQL window functions like RANK, LEAD, and LAG. This project lays the groundwork for time series analysis, financial insights, and future data visualizations.
+- [Coca-Cola Stock Analysis](https://github.com/felipe-lemos-costa/SQL-Coca-Cola-Stock-Analysis): In this project, I built a relational database in MySQL using historical Coca-Cola (KO) stock data from 2019 to 2024. I performed data import, validation, and exploratory analysis, including daily price variation, monthly averages, and trading volume. I also created analytical views using SQL window functions like 'RANK', `LEAD`, and `LAG`. This project lays the groundwork for time series analysis, financial insights, and future data visualizations.
 ---
 
 ## 🤝 Let’s Connect
