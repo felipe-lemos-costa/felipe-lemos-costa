@@ -38,6 +38,8 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 
 - [Advertising_Budget_Sales](https://github.com/felipe-lemos-costa/Advertising_Budget_Sales): This project analyzes the relationship between investments in different advertising channels (TV, radio, and newspapers) and their impact on company sales. The goal is to understand how each channel contributes to sales performance, using advertising budgets as explanatory variables and sales volume as the target variable.
 
+<img [src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg="MySQL Logo" width="150" />
+
 ---
 
 ## 🤝 Let’s Connect
