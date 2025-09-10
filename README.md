@@ -44,6 +44,8 @@ Engineer and Data Scientist with over 4 years of experience working in technolog
 
 <img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R Logo" width="150" />
 
+- [Telco Customer Churn Data Cleaning and Exploratory Analysis](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis): In this project, I cleaned and explored Telco customer churn data using R, handled missing values, converted variable types, and created visualizations. I analyzed churn rates by contract type and monthly charges, uncovering key insights to support predictive modeling and customer retention strategies.
+
 ---
 
 ## 🤝 Let’s Connect
