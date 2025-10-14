@@ -1,7 +1,7 @@
 # Felipe Costa
 
 ## 🧠 Summary
-Engineer and Data Scientist with over 4 years of experience working in technology companies, finishing an MBA in Data Science. Strong knowledge in Machine Learning (ML), Python, R, and SQL. Experienced in Enginiring, Data Analysis, Algorithms, and Data Visualization. Proficient in working with Datasets, applying Mathematics and Statistics, and delivering Data Solutions, Data Insights and Data Business. Skilled in Statistical methods and data business strategies, with excellent English Communication Skills and strong analytical skills. Available for freelance projects for clients in the UK, USA, and Europe.
+Data Scientist and Engineer Lean Six Sigma Black Belt certified in Amsterdam – Netherlands, with 5+ years of experience in data analysis, including 4 years at a large global American technology company. Skilled in Machine Learning (ML), deep learning, predictive modeling, Generative AI, with proficiency in Python, R, SQL, TensorFlow, PyTorch, scikit-learn, Pandas, and NumPy. Experienced in developing models, algorithms, data pipelines, ETL processes, and high-quality code, with expertise in NLP, LLMs, Marketing Mix Modeling (MMM), forecasting, and optimization. Background in data visualization using Tableau, Power BI, and Looker, as well as graphs, dashboards, data warehousing, data modeling, and Snowflake. Experienced in cloud environments (Azure, GCP, and AWS), MLOps, and DevOps, applying statistical methods, causal inference, and problem-solving. Excellent communication, collaboration, leadership, and stakeholder management skills, adaptable to changing business needs. Currently delivering freelance Data Science projects and services for clients in the UK, US, and Europe.
 
 ---
 
