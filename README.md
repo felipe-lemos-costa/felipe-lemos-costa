@@ -7,17 +7,14 @@ Data Scientist and Engineer Lean Six Sigma Black Belt certified in Amsterdam –
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Libraries**  
-`Python` | `R` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `XGBoost` | `TensorFlow` | `Keras` | `PyTorch` | `OpenCV` | `BeautifulSoup`
+**Programming & Data Science**  
+`Python` | `R` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `NLP` | `LLMs` | `Generative AI`
 
-**Data & Business Tools**  
-`Power BI` | `Excel (Advanced)` | `Tableau` | `Statsmodels` | `SciPy` | `SAP` | `ERP Systems`
+**Data Engineering & Cloud**  
+`Snowflake` | `Azure` | `Google Cloud Platform (GCP)` | `AWS` | `MLOps` | `DevOps`
 
-**Cloud & DevOps**  
-`AWS` | `Google Cloud Platform` | `Git & GitHub`
-
-**NLP**  
-`NLTK` | `SpaCy`
+**Data Visualization & Business Analytics**  
+`Power BI` | `Tableau` | `Looker` | `Marketing Mix Modeling (MMM)`
 
 ---
 
